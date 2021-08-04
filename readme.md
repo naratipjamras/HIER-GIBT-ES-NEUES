@@ -1,4 +1,4 @@
-<h>Laravel Mathematical Coding Challenge</h><br> 
+<h2>Laravel Mathematical Coding Challenge</h2><br> 
 Coding Instructions:<br>
 The following German words represent a mathematical formula:<br>
 HIER + GIBT + ES = NEUES<br>
