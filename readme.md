@@ -24,3 +24,17 @@ $iterations = 0;<br>
 – the method should output all results – if there are any – including the amount if iterations needed<br>
 – use comments to describe the mathematical rules used to reduce the complexity of the task<br>
 – the first place goes to the correct solution having the least iterations<br>
+
+
+## Installation
+
+- `https://github.com/naratipjamras/HIER-GIBT-ES-NEUES.git`
+- `cd HIER-GIBT-ES-NEUES/`
+- `composer install`
+- `cp .env.example .env`
+- Update `.env` and set your database credentials
+- `php artisan key:generate`
+- `php artisan migrate`
+- `npm install`
+- `npm run dev`
+- `php artisan serve`
